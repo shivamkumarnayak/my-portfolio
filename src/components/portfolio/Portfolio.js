@@ -3,6 +3,8 @@ import './portfolio.css';
 import IMG1 from '../../assets/portfolio1.png';
 import IMG2 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.png';
+import IMG4 from '../../assets/portfolio4.png';
+import IMG5 from '../../assets/portfolio5.png';
 
 const data = [
   {
@@ -10,7 +12,7 @@ const data = [
     image: IMG1,
     title: 'The Pranky Jokes Website',
     github: 'https://github.com/shivamkumarnayak/the-pranky',
-    demo: 'http://thepranky.epizy.com/'
+    demo: 'https://google.com/'
   },
   {
     id:2,
@@ -24,6 +26,20 @@ const data = [
     image: IMG3,
     title: 'Joke Extension For The Pranky',
     github: 'https://github.com/shivamkumarnayak/Joke-Extension',
+    demo: 'https://google.com'
+  },
+  {
+    id:4,
+    image: IMG4,
+    title: 'Portfolio Website Based on React JS',
+    github: 'https://github.com/shivamkumarnayak/my-portfolio',
+    demo: 'https://shivamkumarnayak.herokuapp.com/'
+  },
+  {
+    id:5,
+    image: IMG5,
+    title: 'Social Blog Website',
+    github: 'https://github.com/shivamkumarnayak/social-blog-site',
     demo: 'https://google.com'
   }
 ]

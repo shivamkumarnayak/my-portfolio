@@ -35,7 +35,7 @@ const Contact =()=>{
                         <HiOutlineMail className="contact__option-icon"/>
                         <h4>Email</h4>
                         <h5>shivamkumarnayak100@gmail.com</h5>
-                        <a href="mailto:dummyegator@gmail.com" target="_blank">Send a message</a>
+                        <a href="mailto:shivamkumarnayak100@gmail.com" target="_blank">Send a message</a>
                     </article>
 
                     <article className="contact__option">
@@ -49,7 +49,7 @@ const Contact =()=>{
                         <BsWhatsapp className="contact__option-icon"/>
                         <h4>Whatsapp</h4>
                         <h5>+91 9709808834</h5>
-                        <a href="https://api.whatsapp.com/send?phone=9709808834&text=Hello" target="_blank">Send a message</a>
+                        <a href="https://api.whatsapp.com/send?phone=+919709808834&text=Hello" target="_blank">Send a message</a>
                     </article>
 
                 </div>
