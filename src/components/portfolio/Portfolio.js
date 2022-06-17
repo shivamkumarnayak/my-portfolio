@@ -12,14 +12,14 @@ const data = [
     image: IMG1,
     title: 'The Pranky Jokes Website',
     github: 'https://github.com/shivamkumarnayak/the-pranky',
-    demo: 'https://google.com/'
+    demo: 'http://thepranky.epizy.com/'
   },
   {
     id:2,
     image: IMG2,
     title: 'Sport Kart Ecommerce Website',
     github: 'https://github.com/shivamkumarnayak/sport-kart-ecommerce',
-    demo: 'https://google.com'
+    demo: 'http://sportkart.epizy.com/'
   },
   {
     id:3,
