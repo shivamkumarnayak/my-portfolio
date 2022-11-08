@@ -5,42 +5,50 @@ import IMG2 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.png';
 import IMG5 from '../../assets/portfolio5.png';
+import IMG6 from '../../assets/portfolio6.png';
 
 const data = [
   {
     id:1,
+    image: IMG6,
+    title: 'Local Grocery Ecommerce',
+    github: 'https://github.com/shivamkumarnayak/Local-Grocery-Ecommerce',
+    demo: 'https://github.com/shivamkumarnayak/Local-Grocery-Ecommerce'
+  },
+  {
+    id:2,
     image: IMG1,
     title: 'The Pranky Jokes Website',
     github: 'https://github.com/shivamkumarnayak/the-pranky',
     demo: 'http://thepranky.epizy.com/'
   },
   {
-    id:2,
+    id:3,
     image: IMG2,
     title: 'Sport Kart Ecommerce Website',
     github: 'https://github.com/shivamkumarnayak/sport-kart-ecommerce',
     demo: 'http://sportkart.epizy.com/'
   },
   {
-    id:3,
+    id:4,
     image: IMG3,
     title: 'Joke Extension For The Pranky',
     github: 'https://github.com/shivamkumarnayak/Joke-Extension',
-    demo: 'https://google.com'
+    demo: 'https://github.com/shivamkumarnayak/Joke-Extension'
   },
   {
-    id:4,
+    id:5,
     image: IMG4,
     title: 'Portfolio Website Based on React JS',
     github: 'https://github.com/shivamkumarnayak/my-portfolio',
     demo: 'https://shivamkumarnayak.herokuapp.com/'
   },
   {
-    id:5,
+    id:6,
     image: IMG5,
     title: 'Social Blog Website',
     github: 'https://github.com/shivamkumarnayak/social-blog-site',
-    demo: 'https://google.com'
+    demo: 'https://github.com/shivamkumarnayak/social-blog-site'
   }
 ]
 
