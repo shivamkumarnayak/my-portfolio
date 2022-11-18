@@ -13,7 +13,7 @@ const data = [
     image: IMG6,
     title: 'Local Grocery Ecommerce',
     github: 'https://github.com/shivamkumarnayak/Local-Grocery-Ecommerce',
-    demo: 'https://github.com/shivamkumarnayak/Local-Grocery-Ecommerce'
+    demo: 'https://localgroceryshop.herokuapp.com/'
   },
   {
     id:2,
