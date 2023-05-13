@@ -10,6 +10,8 @@ import {IoLogoNodejs} from 'react-icons/io';
 import {DiMongodb} from 'react-icons/di';
 import {SiExpress} from 'react-icons/si';
 import {SiJava} from 'react-icons/si';
+import {SiDart} from 'react-icons/si';
+import {SiFlutter} from 'react-icons/si';
 
 const Experience = () => {
   return (
@@ -57,6 +59,22 @@ const Experience = () => {
             <FaReact className='.experience__details-icon'/>
               <div>
                 <h4>React JS</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+          </article>
+
+          <article className='experience__details'>
+            <SiDart className='.experience__details-icon'/>
+              <div>
+                <h4>Dart</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+          </article>
+
+          <article className='experience__details'>
+            <SiFlutter className='.experience__details-icon'/>
+              <div>
+                <h4>Flutter</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
           </article>

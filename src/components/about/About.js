@@ -46,8 +46,22 @@ const About = () => {
           </div>
 
           <p>
-          I am a student with a strong personality, hard-working, honest, and a good learner as well. I can easily work under pressure and meet deadlines when given the opportunity. As a fresher, I am looking for a job in an organization where I get a platform to put my skills to the best use. My goal is to find a suitable position in which I can grow and succeed as an individual and in the process benefit both the organization and me.
+          As a software developer, I am passionate about using technology to create innovative solutions that can make a positive impact on people's lives. With over 6 months of experience in the industry, I have honed my skills in Full Stack Web Development(MERN) and App Development.
           </p>
+          <p>
+          I thrive in fast-paced environments, and I enjoy collaborating with cross-functional teams to deliver high-quality software products. I am a problem solver at heart and enjoy taking on complex challenges and finding creative solutions to overcome them.
+            </p>
+
+
+        <p>
+        In my current role as a Software Developer, I have been involved in App Development Project, which has been instrumental in driving the company's success. I am constantly seeking opportunities to learn and grow, and I believe that staying up-to-date with the latest technologies is essential to staying competitive in the industry.
+        </p>
+
+
+<p>
+Outside of work, I enjoy trying to explore new things, which helps me to stay balanced and energized. I am always open to connecting with other professionals in the industry, so feel free to reach out and connect with me.
+</p>
+          
 
           <a href="#contact" className='btn btn-primary' >Let's Talk</a>
         </div>
