@@ -33,6 +33,17 @@
     margin-bottom: 1rem;
 }
 
+/* When only one button (Github) is visible */
+.single-button {
+  justify-content: center;
+}
+
+.single-button .btn {
+  width: 100%;
+  text-align: center;
+}
+
+
 /* ******* For Media Query (Medium Devices) ******* */
 
 /***** Isme "and" ke center me koi bhi space nahi de ****/

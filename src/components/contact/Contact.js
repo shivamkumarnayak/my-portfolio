@@ -49,19 +49,10 @@ const Contact =()=>{
                         <BsWhatsapp className="contact__option-icon"/>
                         <h4>Whatsapp</h4>
                         <h5>+91 9508779872</h5>
-                        <a href="https://api.whatsapp.com/send?phone=+919709808834&text=Hello" target="_blank">Send a message</a>
+                        <a href="https://api.whatsapp.com/send?phone=+919508779872&text=Hello" target="_blank">Send a message</a>
                     </article>
 
                 </div>
-
-                {/* End of contact option  */}
-
-                <form ref={form} onSubmit={sendEmail}>
-                    <input type="text" name="name" placeholder="Your Full Name" required />
-                    <input type="email" name="email" placeholder="Your Email" required />
-                    <textarea name="message"  rows="7" required></textarea>
-                    <button type="submit" className="btn btn-primary">Send Message</button>
-                </form>
 
             </div>
         </section>
