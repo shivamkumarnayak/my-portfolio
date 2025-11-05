@@ -22,7 +22,7 @@ const Experience = () => {
               <SiFlutter className='experience__details-icon' />
               <div>
                 <h4>Flutter</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(3)</small>
               </div>
             </article>
 
@@ -30,7 +30,7 @@ const Experience = () => {
               <SiDart className='experience__details-icon' />
               <div>
                 <h4>Dart</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(3)</small>
               </div>
             </article>
 
@@ -38,7 +38,7 @@ const Experience = () => {
               <SiReact className='experience__details-icon' />
               <div>
                 <h4>React Native</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(2)</small>
               </div>
             </article>
 
@@ -46,7 +46,7 @@ const Experience = () => {
               <SiExpo className='experience__details-icon' />
               <div>
                 <h4>Expo</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(2)</small>
               </div>
             </article>
 
@@ -54,7 +54,7 @@ const Experience = () => {
               <SiFirebase className='experience__details-icon' />
               <div>
                 <h4>Firebase</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Experienced(3)</small>
               </div>
             </article>
 
@@ -62,7 +62,7 @@ const Experience = () => {
               <SiKotlin className='experience__details-icon' />
               <div>
                 <h4>Kotlin</h4>
-                <small className='text-light'>Beginner</small>
+                <small className='text-light'>Intermediate(1)</small>
               </div>
             </article>
 
@@ -70,7 +70,7 @@ const Experience = () => {
               <IoLogoHtml5 className='experience__details-icon' />
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -78,7 +78,7 @@ const Experience = () => {
               <DiCss3 className='experience__details-icon' />
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -86,7 +86,7 @@ const Experience = () => {
               <SiJavascript className='experience__details-icon' />
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -94,7 +94,7 @@ const Experience = () => {
               <BsBootstrapFill className='experience__details-icon' />
               <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -102,7 +102,7 @@ const Experience = () => {
               <FaReact className='experience__details-icon' />
               <div>
                 <h4>React JS</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -118,7 +118,7 @@ const Experience = () => {
               <IoLogoNodejs className='experience__details-icon' />
               <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -126,7 +126,7 @@ const Experience = () => {
               <DiMongodb className='experience__details-icon' />
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -134,7 +134,7 @@ const Experience = () => {
               <SiExpress className='experience__details-icon' />
               <div>
                 <h4>Express JS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
@@ -142,7 +142,7 @@ const Experience = () => {
               <SiJava className='experience__details-icon' />
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced(1)</small>
               </div>
             </article>
 
